@@ -9,6 +9,7 @@ As rotas podem ser testadas utilizando Postman através da URL: http://127.0.0.1
 **Como executar o projeto**
 
 Clonar o repositório:
+https://github.com/danilo9red-creator/API-Alunos-Flask.git
 
 Acessar a pasta;
 
