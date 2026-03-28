@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Carolina Silva",
+        "idade": 20,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "matricula": "2024001",
+        "email": "ana.silva@email.com",
+        "telefone": "(63) 99999-1234"
+    },
+    {
+        "id": 2,
+        "nome": "Bruno Oliveira Santos",
+        "idade": 22,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "matricula": "2024002",
+        "email": "bruno.santos@email.com",
+        "telefone": "(63) 99999-1235"
+    },
+    {
+        "curso": "Sistemas de Informação",
+        "email": "carla.ferreira@email.com",
+        "id": 3,
+        "idade": 20,
+        "matricula": "2024003",
+        "nome": "Carla Mendes Ferreira",
+        "telefone": "(63) 99999-1236"
+    },
+    {
+        "id": 4,
+        "nome": "Daniel Costa Lima",
+        "idade": 23,
+        "curso": "Sistemas de Informação",
+        "matricula": "2024004",
+        "email": "daniel.lima@email.com",
+        "telefone": "(63) 99999-1237"
+    },
+    {
+        "id": 5,
+        "nome": "Elena Rodrigues Souza",
+        "idade": 21,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "matricula": "2024005",
+        "email": "elena.souza@email.com",
+        "telefone": "(63) 99999-1238"
+    },
+    {
+        "curso": "Sistemas de Informação",
+        "email": "ad.soares@email.com",
+        "id": 6,
+        "idade": 23,
+        "matricula": "2024006",
+        "nome": "Adilson Costa Soares",
+        "telefone": "(63) 99999-1239"
+    }
+]
