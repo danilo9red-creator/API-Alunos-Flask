@@ -15,6 +15,7 @@ Acessar a pasta;
 Instalar as dependências;
 
 Executar o projeto;
+
 aplicativo python.py
 
 **Estrutura do projeto**
